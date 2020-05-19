@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+.logo {
+	background-color: gray;
+	height: 60px;
+	margin-bottom: 1%;
+}
+
+.banner {
+	background-color: gray;
+	height: 120px;
+	margin-bottom: 1%;
+}
+
+.text {
+	background-color: gray;
+	height: 90px;
+	margin-bottom: 1%;
+}
+
+.box {
+	background-color: gray;
+	height: 240px;
+	margin-bottom: 1%;
+}
+
+.footer {
+	background-color: gray;
+	height: 30px;
+}
